@@ -6,8 +6,8 @@ Currently open to senior software engineering roles across frontend, backend and
 
 **What I've worked on**
 
-- **Narrate Inc. (EloLabs AI)**, Lead Software Engineer, 2023–2026: built 4 AI products from scratch, including a call analytics platform used by ~10 enterprise customers processing 100K+ calls per weekday, a self-serve AI voice agent platform, and a tax copilot. Owned the frontend end to end and the Node.js and Python backend for my features.
-- **Upstox**, SDE II, 2022–2023: led the frontend rebuild of the mutual fund and investment web app in React and Next.js, covering 2,000+ fund schemes, SIP and lumpsum ordering, and UPI autopay. Moved WebView screens in the mobile app to native React Native.
+- **EloLabs AI**, Lead Software Engineer, 2023–2026: built 4 AI products from scratch, including a call analytics platform used by ~10 enterprise customers processing 100K+ calls per weekday, a self-serve AI voice agent platform, and a tax copilot. Owned the frontend end to end and the Node.js and Python backend for my features.
+- **Upstox**, SDE II, 2022–2023: Led rontend architecture and development for Upstox’s Mutual Funds and IPO investment journeys, building scalable React and Next.js applications supporting 2,000+ mutual fund schemes. Contributed to frontend modernization by developing a reusable UI component library, optimizing application performance, and migrating mobile WebView screens to native React Native.
 - **Udaan**, Application Developer II, 2021–2022: built REST APIs and webhook integrations in Kotlin and PostgreSQL connecting udaanCapital with bank and NBFC lending partners, plus in-app financing used by 25,000+ sellers.
 - **The Solar Labs**, SDE I, 2020–2021: built 3D solar layout and structure visualisation in Three.js, and cut the frontend bundle from 12 MB to 5 MB.
 
